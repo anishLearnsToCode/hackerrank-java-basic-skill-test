@@ -5,6 +5,8 @@
 [![cp](https://img.shields.io/badge/also%20see-Competitve%20Programming-1f72ff.svg)](https://github.com/anishLearnsToCode/competitive-programming)
 [![cp](https://img.shields.io/badge/also%20see-Other%20Certifications-1f72ff.svg)](https://github.com/anishLearnsToCode/competitive-programming#certifications)
 
+📺 [My YouTube Channel](https://www.youtube.com/channel/UC6zEtIjpypm8gADSdHMP5vg/featured)
+
 Took this test on HackerRank [here](https://www.hackerrank.com/skills-verification) 
 on __14th July 2020__. 
 Certificate can be viewed [here](https://www.hackerrank.com/certificates/e7bb326e632c)
